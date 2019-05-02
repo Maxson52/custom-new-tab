@@ -1,2 +1,2 @@
-# custom-new-tab
+# Custom New Tab
 A custom new tab extension for chrome
