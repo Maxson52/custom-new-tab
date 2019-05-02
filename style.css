@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-image: url('https://www.voidustries.ca/pages/assets/backgroundC.jpg');
+    background-size: 100%;
+    background-position-y: -100px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#time {
+    padding-top: 35px;
+    font-family: "Poppins";
+    font-size: 60px;
+    color: rgba(255,255,255,0.8);
+    text-align: center;
+}
+
+#weather {
+    font-family: "Poppins";
+    color: rgba(255,255,255,0.8);
+    text-align: center;
+}
+
+#date {
+    font-family: "Poppins";
+    font-size: 30px;
+    color: rgba(255,255,255,0.8);
+    text-align: center;
+}
